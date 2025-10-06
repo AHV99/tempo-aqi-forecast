@@ -1,1 +1,12 @@
+# Ignorar archivos temporales y de sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignorar entorno virtual de Python
+venv/
 .env
+*.env
+# Ignorar archivos de configuración personal
+config.json
